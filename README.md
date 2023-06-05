@@ -37,7 +37,7 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
 
-##Stats :chart_with_upwards_trend:
+## Stats :chart_with_upwards_trend:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mal0wn&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mal0wn&theme=synthwave)](https://git.io/streak-stats)
